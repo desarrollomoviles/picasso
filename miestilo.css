@@ -1,0 +1,37 @@
+body {
+  background-color: #EB984E  ;
+}
+
+h1 {
+  color: #000;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+.menu  {
+    width: 20%;
+	float: left;
+	border: 1px dotted green;
+	margin-right: 1em;
+	padding: 1em;
+	background-color: #82E0AA;
+}
+.caja  {
+    width: 20%;
+	float: right;
+	border: 1px dotted green;
+	margin-left: 1em;
+	padding: 1em;
+	background-color: #82E0AA;
+}
+
+
+.contenido  {
+  width: 45%;
+  float: left;
+  background-color: #EAFAF1;
+}
